@@ -43,7 +43,7 @@
     "@ai-sdk/anthropic": "4.0.40",
     "@ai-sdk/openai": "4.0.45",
     "@ai-sdk/openai-compatible": "3.0.14",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "peerDependencies": {
     "ai": "^7.0.105",
